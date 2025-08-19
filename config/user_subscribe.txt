@@ -28,3 +28,4 @@ https://live.zbds.org/tv/iptv4.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
 https://tv-1.iill.top/m3u/Gather
+https://aktv.space/live.m3u
