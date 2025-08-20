@@ -1,47 +1,37 @@
-Name: CCTV-5, URL: http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv5.flv, IPv_Type: ipv4, Location: 美国-弗吉尼亚州-劳登县, ISP: Amazon数据中心, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1877 ms, Speed: 0.11 M/s, Resolution: None
-Name: CCTV-5+, URL: https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1988 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-5, URL: https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2101 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-3, URL: https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2184 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-5, URL: http://omnix.cn:4000/udp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 468 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://a21709.tv.netsite.cc/proxy/1464748337/1464748337.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: IT7网络, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2045 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-7, URL: https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1735 ms, Speed: 0.38 M/s, Resolution: None
-Name: CCTV-7, URL: http://omnix.cn:4000/udp/225.1.8.7:8104, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 471 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2010 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-9, URL: https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1968 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-10, URL: https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2044 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-11, URL: https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2208 ms, Speed: 0.09 M/s, Resolution: None
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7529 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1873 ms, Speed: 0.35 M/s, Resolution: None
-Name: CCTV-14, URL: https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1968 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-12, URL: https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2229 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-16, URL: https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1987 ms, Speed: 0.13 M/s, Resolution: None
-Name: CCTV-15, URL: https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2003 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-17, URL: https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2092 ms, Speed: 0.09 M/s, Resolution: None
-Name: 广东卫视, URL: http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5b21f7&tk=6949f8ce7202, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东卫视, URL: http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 41 ms, Speed: 2.24 M/s, Resolution: None
-Name: CETV-1, URL: https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2178 ms, Speed: 0.18 M/s, Resolution: None
-Name: 广东新闻, URL: https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 53 ms, Speed: 2.06 M/s, Resolution: None
-Name: CETV-2, URL: https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2003 ms, Speed: 0.32 M/s, Resolution: None
-Name: TVB PLUS, URL: http://bx.757888.xyz/api.php?id=tvbp, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CETV-3, URL: https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1950 ms, Speed: 0.11 M/s, Resolution: None
-Name: CETV-4, URL: https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1774 ms, Speed: 0.20 M/s, Resolution: None
-Name: 广东卫视, URL: http://nas.hssvm.com:8888/udp/225.1.1.116:5002, IPv_Type: ipv4, Location: 中国-天津-天津, ISP: 联通, Date: None, Delay: 462 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: TVB PLUS, URL: http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus02.flv, IPv_Type: ipv4, Location: 美国-弗吉尼亚州-劳登县, ISP: Amazon数据中心, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB PLUS, URL: http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv, IPv_Type: ipv4, Location: 美国-科罗拉多州-布鲁姆菲尔德, ISP: Level3, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东卫视, URL: http://drive.mxmy.net:8888/udp/239.3.1.142:8048, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 455 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 2099 ms, Speed: 0.53 M/s, Resolution: 1920x1080
-Name: 香港卫视, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 62 ms, Speed: 3.05 M/s, Resolution: 1280x720
-Name: TVB PLUS, URL: https://yang-1989.eu.org/live/TVB-Plus, IPv_Type: ipv4, Location: 新加坡, ISP: 华为云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 香港卫视, URL: https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1939 ms, Speed: 0.10 M/s, Resolution: None
-Name: Viutv, URL: https://turkmedya-live.ercdn.net/tv360/tv360.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: FDC机房, Date: None, Delay: 1395 ms, Speed: 1.63 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 891 ms, Speed: 0.20 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 892 ms, Speed: 0.13 M/s, Resolution: 1920x1080
-Name: TVB PLUS, URL: http://api.mytv666.top/api/hk.php?id=3639623039646236316664356637656639306231623831633232376366353164267469643d77696e74763132332669643d3233, IPv_Type: ipv4, Location: 新加坡, ISP: 腾讯云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: NOW新闻, URL: http://api.mytv666.top/api/hk.php?id=3861666539393633313665393630366237386632616666343339393737373837267469643d74762669643d3336, IPv_Type: ipv4, Location: 新加坡, ISP: 腾讯云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东卫视, URL: http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8, IPv_Type: ipv4, Location: 中国-黑龙江, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB PLUS, URL: http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: FDC机房, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB PLUS, URL: http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB PLUS, URL: http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Psychz网络公司, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB PLUS, URL: http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Psychz网络公司, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1997 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-5+, URL: https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2030 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-5, URL: https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2060 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-3, URL: https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2026 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-6, URL: https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1927 ms, Speed: 0.14 M/s, Resolution: None
+Name: CCTV-5, URL: http://omnix.cn:4000/udp/225.1.8.89:8000, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 524 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://omnix.cn:4000/udp/225.1.8.7:8104, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 536 ms, Speed: 0.11 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1969 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-10, URL: https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2002 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-7, URL: https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2036 ms, Speed: 0.15 M/s, Resolution: None
+Name: CCTV-11, URL: https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 1988 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-8, URL: https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2241 ms, Speed: 0.09 M/s, Resolution: None
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7412 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2108 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-12, URL: https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2157 ms, Speed: 0.10 M/s, Resolution: None
+Name: CETV-1, URL: https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2202 ms, Speed: 0.09 M/s, Resolution: None
+Name: CCTV-16, URL: https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2000 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-15, URL: https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2104 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-14, URL: https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2109 ms, Speed: 0.09 M/s, Resolution: None
+Name: CCTV-17, URL: https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2311 ms, Speed: 0.09 M/s, Resolution: None
+Name: 广东卫视, URL: http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6397b9&tk=6949f8ce7202, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CETV-4, URL: https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2126 ms, Speed: 0.10 M/s, Resolution: None
+Name: CETV-3, URL: https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2239 ms, Speed: 0.09 M/s, Resolution: None
+Name: CETV-2, URL: https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2199 ms, Speed: 0.10 M/s, Resolution: None
+Name: 广东卫视, URL: http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 17 ms, Speed: 5.72 M/s, Resolution: None
+Name: 广东新闻, URL: https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8, IPv_Type: ipv4, Location: 美国-德克萨斯州-达拉斯, ISP: 网宿科技CDN节点, Date: None, Delay: 24 ms, Speed: 4.60 M/s, Resolution: None
+Name: 香港卫视, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 22 ms, Speed: 7.94 M/s, Resolution: 1280x720
+Name: TVB PLUS, URL: http://api.mytv666.top/api/hk.php?id=3639643231333366353439326662633736356531346434363133643465663039267469643d74762669643d3236, IPv_Type: ipv4, Location: 新加坡, ISP: 腾讯云, Date: None, Delay: 8 ms, Speed: 53.23 M/s, Resolution: 1280x720
+Name: Viutv, URL: https://turkmedya-live.ercdn.net/tv360/tv360.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: FDC机房, Date: None, Delay: 995 ms, Speed: 2.25 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 2308 ms, Speed: 0.57 M/s, Resolution: 1920x1080
+Name: TVB PLUS, URL: http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv, IPv_Type: ipv4, Location: 美国-弗吉尼亚州-劳登县, ISP: Amazon数据中心, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 广东卫视, URL: http://drive.mxmy.net:8888/udp/239.3.1.142:8048, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 515 ms, Speed: 0.25 M/s, Resolution: 1920x1080
+Name: 香港卫视, URL: https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: 2333 ms, Speed: 0.10 M/s, Resolution: None
+Name: CCTV-2, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 1472 ms, Speed: 0.01 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 珠江宽频, Date: None, Delay: 2476 ms, Speed: 0.01 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://nas.hssvm.com:8888/udp/225.1.1.116:5002, IPv_Type: ipv4, Location: 中国-天津-天津, ISP: 联通, Date: None, Delay: 586 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8, IPv_Type: ipv4, Location: 中国-黑龙江, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None

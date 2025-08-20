@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2025-08-20 06:11:28,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-08-20 18:12:13,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
-CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 CCTV-6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
 CCTV-7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
@@ -35,6 +35,7 @@ CETV-4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 广东卫视,http://nas.hssvm.com:8888/udp/225.1.1.116:5002
 
 🌊港·澳·台,#genre#
+TVB PLUS,http://api.mytv666.top/api/hk.php?id=3639643231333366353439326662633736356531346434363133643465663039267469643d74762669643d3236
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
