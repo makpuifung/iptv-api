@@ -4,3 +4,4 @@ cdn.iptv8k.top
 cqshushu
 freetv
 wsrtv
+rtmp
