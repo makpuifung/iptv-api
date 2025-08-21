@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250821101208 +0800">
+<tv date="20250821122734 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3572,6 +3572,54 @@
 	</programme>
 	<programme channel="明珠台" start="20250821232900 +0800" stop="20250821235900 +0800">
 		<title lang="zh">狂野时速Ⅶ</title>
+	</programme>
+	<channel id="美亚电影">
+		<display-name lang="zh">美亚电影</display-name>
+	</channel>
+	<programme channel="美亚电影" start="20250821010000 +0800" stop="20250821023500 +0800">
+		<title lang="zh">烈火青春</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821023500 +0800" stop="20250821041000 +0800">
+		<title lang="zh">蝴蝶公墓</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821041000 +0800" stop="20250821055000 +0800">
+		<title lang="zh">天才与白痴</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821055000 +0800" stop="20250821060000 +0800">
+		<title lang="zh">初到东京</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821060000 +0800" stop="20250821073000 +0800">
+		<title lang="zh">初到东京</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821073000 +0800" stop="20250821090000 +0800">
+		<title lang="zh">双截棍</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821090000 +0800" stop="20250821103000 +0800">
+		<title lang="zh">和平饭店</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821103000 +0800" stop="20250821123500 +0800">
+		<title lang="zh">摆渡人</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821123500 +0800" stop="20250821140500 +0800">
+		<title lang="zh">野良犬</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821140500 +0800" stop="20250821154500 +0800">
+		<title lang="zh">碟仙诡谭</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821154500 +0800" stop="20250821173000 +0800">
+		<title lang="zh">财神到</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821173000 +0800" stop="20250821190500 +0800">
+		<title lang="zh">妳是否依然爱我</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821190500 +0800" stop="20250821210000 +0800">
+		<title lang="zh">保持通话</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821210000 +0800" stop="20250821231500 +0800">
+		<title lang="zh">唐人街探案</title>
+	</programme>
+	<programme channel="美亚电影" start="20250821231500 +0800" stop="20250821235900 +0800">
+		<title lang="zh">岁月神偷</title>
 	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
