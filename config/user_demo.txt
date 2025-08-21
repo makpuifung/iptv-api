@@ -22,7 +22,7 @@ CETV-2
 CETV-3
 CETV-4
 
-☘️广东频道,#genre#
+📺广东频道,#genre#
 广东珠江
 大湾区卫视
 广东体育
@@ -33,12 +33,15 @@ CETV-4
 广州影视
 广州竞赛
 
-🌊港·澳·台,#genre#
+🌐港·澳·台,#genre#
 翡翠台
 无线新闻
 TVB PLUS
-J2
 明珠台
+NOW新闻
+NOW爆谷
+NOW星影
+美亚电影
 凤凰中文
 凤凰资讯
 凤凰香港
@@ -47,7 +50,9 @@ TVBS亚洲
 香港卫视
 纬来体育
 纬来育乐
-Viutv
-NOW新闻
+ViuTV
 三立台湾
-
+BBC
+CNA
+CNN
+FOX LiveNow
