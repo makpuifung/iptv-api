@@ -54,7 +54,7 @@ CGTN俄语,CGTN俄罗斯语
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
 
-翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
+翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,TVB翡翠台 4K
 明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
 北京卫视,北京卫视4K,北京卫视4K超高清
 凤凰中文,凤凰卫视中文台
@@ -106,5 +106,5 @@ CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 哈哈炫动,炫动卡通,上海哈哈炫动
 优漫卡通,江苏优漫卡通
 
-TVB PLUS,TVBPLUS,tvbplus,tvb+,TVB+,tvb plus,TVB Plus
-J2,TVBJ2,TVB J2
+TVB PLUS,TVBPLUS,tvbplus,tvb+,TVB+,tvb plus,TVB Plus,J2,TVBJ2,TVB J2
+
