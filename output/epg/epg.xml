@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250822101237 +0800">
+<tv date="20250822132441 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3031,127 +3031,106 @@
 		<display-name lang="zh">广东新闻</display-name>
 	</channel>
 	<programme channel="广东新闻" start="20250822000000 +0800" stop="20250822003000 +0800">
-		<title lang="zh">精彩呈现</title>
+		<title lang="zh">专题</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822003000 +0800" stop="20250822010000 +0800">
 		<title lang="zh">今日焦点</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822010000 +0800" stop="20250822025900 +0800">
-		<title lang="zh">电视台无节目</title>
+	<programme channel="广东新闻" start="20250822010000 +0800" stop="20250822014500 +0800">
+		<title lang="zh">今日一线</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822025900 +0800" stop="20250822045800 +0800">
-		<title lang="zh">电视台无节目</title>
+	<programme channel="广东新闻" start="20250822014500 +0800" stop="20250822020500 +0800">
+		<title lang="zh">老广的味道</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822045800 +0800" stop="20250822054000 +0800">
-		<title lang="zh">电视台无节目</title>
+	<programme channel="广东新闻" start="20250822020500 +0800" stop="20250822054000 +0800">
+		<title lang="zh">今日关注</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822054000 +0800" stop="20250822055000 +0800">
+	<programme channel="广东新闻" start="20250822054000 +0800" stop="20250822060000 +0800">
 		<title lang="zh">社会纵横</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822055000 +0800" stop="20250822060000 +0800">
-		<title lang="zh">发现广东</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822060000 +0800" stop="20250822063000 +0800">
 		<title lang="zh">直播广东</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822063000 +0800" stop="20250822065000 +0800">
-		<title lang="zh">纪录片</title>
+		<title lang="zh">新闻故事</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822065000 +0800" stop="20250822070000 +0800">
+	<programme channel="广东新闻" start="20250822065000 +0800" stop="20250822070100 +0800">
 		<title lang="zh">社会纵横</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822070000 +0800" stop="20250822070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822070100 +0800" stop="20250822075200 +0800">
+	<programme channel="广东新闻" start="20250822070100 +0800" stop="20250822080000 +0800">
 		<title lang="zh">今日关注</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822075200 +0800" stop="20250822080000 +0800">
-		<title lang="zh">发现广东</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822080000 +0800" stop="20250822083000 +0800">
 		<title lang="zh">广东新闻联播</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822083000 +0800" stop="20250822090000 +0800">
-		<title lang="zh">健康快车</title>
+		<title lang="zh">专题</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822090000 +0800" stop="20250822094500 +0800">
-		<title lang="zh">今日1线</title>
+		<title lang="zh">今日一线</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822094500 +0800" stop="20250822095500 +0800">
+	<programme channel="广东新闻" start="20250822094500 +0800" stop="20250822100000 +0800">
 		<title lang="zh">社会纵横</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822095500 +0800" stop="20250822100000 +0800">
-		<title lang="zh">发现广东</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822100000 +0800" stop="20250822103000 +0800">
 		<title lang="zh">正点播报</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822103000 +0800" stop="20250822110000 +0800">
-		<title lang="zh">健康快车</title>
+		<title lang="zh">专题</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822110000 +0800" stop="20250822120000 +0800">
+	<programme channel="广东新闻" start="20250822110000 +0800" stop="20250822113000 +0800">
 		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20250822113000 +0800" stop="20250822120000 +0800">
+		<title lang="zh">专题</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822120000 +0800" stop="20250822123000 +0800">
 		<title lang="zh">午间30分</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822123000 +0800" stop="20250822130000 +0800">
-		<title lang="zh">健康快车</title>
+		<title lang="zh">专题</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822130000 +0800" stop="20250822140000 +0800">
+	<programme channel="广东新闻" start="20250822130000 +0800" stop="20250822133000 +0800">
 		<title lang="zh">正点播报</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822140000 +0800" stop="20250822143000 +0800">
+	<programme channel="广东新闻" start="20250822133000 +0800" stop="20250822140000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20250822140000 +0800" stop="20250822144000 +0800">
 		<title lang="zh">正点播报</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822143000 +0800" stop="20250822143500 +0800">
-		<title lang="zh">品牌发布</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822143500 +0800" stop="20250822144000 +0800">
-		<title lang="zh">发现广东</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822144000 +0800" stop="20250822150000 +0800">
-		<title lang="zh">纪录片</title>
+		<title lang="zh">新闻故事</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822150000 +0800" stop="20250822153000 +0800">
+	<programme channel="广东新闻" start="20250822150000 +0800" stop="20250822154000 +0800">
 		<title lang="zh">正点播报</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822153000 +0800" stop="20250822153400 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822153400 +0800" stop="20250822160000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="广东新闻" start="20250822154000 +0800" stop="20250822160000 +0800">
+		<title lang="zh">专题</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822160000 +0800" stop="20250822163000 +0800">
 		<title lang="zh">正点播报</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822163000 +0800" stop="20250822165000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="广东新闻" start="20250822163000 +0800" stop="20250822170000 +0800">
+		<title lang="zh">新闻故事</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822165000 +0800" stop="20250822165500 +0800">
-		<title lang="zh">发现广东</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822165500 +0800" stop="20250822170000 +0800">
-		<title lang="zh">品牌发布</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822170000 +0800" stop="20250822172700 +0800">
+	<programme channel="广东新闻" start="20250822170000 +0800" stop="20250822173000 +0800">
 		<title lang="zh">正点播报</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822172700 +0800" stop="20250822180000 +0800">
-		<title lang="zh">天气快报</title>
+	<programme channel="广东新闻" start="20250822173000 +0800" stop="20250822180000 +0800">
+		<title lang="zh">专题</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822180000 +0800" stop="20250822183000 +0800">
 		<title lang="zh">正点播报</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822183000 +0800" stop="20250822190000 +0800">
-		<title lang="zh">健康快车</title>
+		<title lang="zh">专题</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822190000 +0800" stop="20250822192500 +0800">
 		<title lang="zh">正点播报</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822192500 +0800" stop="20250822193000 +0800">
-		<title lang="zh">天气123</title>
+		<title lang="zh">天气预报</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822193000 +0800" stop="20250822200000 +0800">
 		<title lang="zh">广东新闻联播</title>
@@ -3162,26 +3141,23 @@
 	<programme channel="广东新闻" start="20250822203000 +0800" stop="20250822210000 +0800">
 		<title lang="zh">今日焦点</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822210000 +0800" stop="20250822213000 +0800">
-		<title lang="zh">应急第1线</title>
+	<programme channel="广东新闻" start="20250822210000 +0800" stop="20250822211000 +0800">
+		<title lang="zh">社会纵横</title>
+	</programme>
+	<programme channel="广东新闻" start="20250822211000 +0800" stop="20250822213000 +0800">
+		<title lang="zh">粤食粤健康</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822213000 +0800" stop="20250822222000 +0800">
-		<title lang="zh">今日1线</title>
+		<title lang="zh">今日一线</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822222000 +0800" stop="20250822223000 +0800">
-		<title lang="zh">应急第1线</title>
+		<title lang="zh">社会纵横</title>
 	</programme>
 	<programme channel="广东新闻" start="20250822223000 +0800" stop="20250822230000 +0800">
 		<title lang="zh">新闻夜线</title>
 	</programme>
-	<programme channel="广东新闻" start="20250822230000 +0800" stop="20250822235300 +0800">
+	<programme channel="广东新闻" start="20250822230000 +0800" stop="20250822235000 +0800">
 		<title lang="zh">今日关注</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822235300 +0800" stop="20250822235600 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="广东新闻" start="20250822235600 +0800" stop="20250822235900 +0800">
-		<title lang="zh">纪录片</title>
 	</programme>
 	<channel id="广东民生">
 		<display-name lang="zh">广东民生</display-name>
