@@ -108,3 +108,4 @@ CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 
 TVB PLUS,TVBPLUS,tvbplus,tvb+,TVB+,tvb plus,TVB Plus,J2,TVBJ2,TVB J2
 
+美亚电影,美亚电影HK(粤)
