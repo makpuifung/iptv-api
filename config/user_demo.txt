@@ -1,4 +1,4 @@
-📺央视,#genre#
+✨央视,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -22,7 +22,7 @@ CETV-2
 CETV-3
 CETV-4
 
-🦟广东,#genre#
+✨广东,#genre#
 广东珠江
 大湾区卫视
 广东体育
@@ -33,7 +33,7 @@ CETV-4
 广州影视
 广州竞赛
 
-🚢港台,#genre#
+✨港台,#genre#
 翡翠台
 无线新闻台
 TVB PLUS
@@ -52,20 +52,3 @@ TVBS亚洲
 纬来育乐
 ViuTV
 三立台湾
-
-🌸日本,#genre#
-nhk_g_tokyo
-nhk_e_tokyo
-ntv
-tbs
-fuji_tv
-tv_asahi
-tv_tokyo
-tokyo_mx_1
-tokyo_mx2
-mbs
-abc
-animax
-wowow_prime
-wowow_cinema
-wowow_live
