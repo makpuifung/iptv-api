@@ -1,4 +1,4 @@
-📺央视频道,#genre#
+📺央视,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -22,7 +22,7 @@ CETV-2
 CETV-3
 CETV-4
 
-🦟广东频道,#genre#
+🦟广东,#genre#
 广东珠江
 大湾区卫视
 广东体育
@@ -33,7 +33,7 @@ CETV-4
 广州影视
 广州竞赛
 
-🌐港·澳·台,#genre#
+🚢港台,#genre#
 翡翠台
 无线新闻台
 TVB PLUS
@@ -52,3 +52,70 @@ TVBS亚洲
 纬来育乐
 ViuTV
 三立台湾
+
+🌸日本,#genre#
+nhk_g_tokyo
+nhk_e_tokyo
+ntv
+tbs
+fuji_tv
+tv_asahi
+tv_tokyo
+tokyo_mx_1
+tokyo_mx2
+mbs
+abc
+tv_osaka
+kansai_tv
+yomiuri_tv
+kbs
+sun_tv
+nhk_bs
+bs_ntv
+bs_asahi
+bs_tbs
+bs_tv_tokyo
+bs_fuji
+bs10
+bs11
+bs12
+nhk_bsp_4k
+bs_tv_tokyo_4k
+wowow_prime
+wowow_cinema
+wowow_live
+bs10_star_channel
+js1
+js2
+js3
+js4
+green_channel
+animax
+nihon_eiga
+sky_a
+gaora
+at_x
+space_shower_tv
+mtv
+kayo_pops
+disney_channel
+cartoon_network
+ntv_g_tasu
+family_gekijo
+mondo_tv
+tbs_channel_1
+tbs_channel_2
+tv_asahi_channel_1
+tv_asahi_channel_2
+fuji_tv_one
+fuji_tv_two
+fuji_tv_next
+neco
+dlife
+toei_channel
+fighting_tv
+entermei_tele
+sports_live_plus
+home_drama
+channel_ginga
+tabi_channel
