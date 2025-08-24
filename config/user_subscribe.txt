@@ -31,4 +31,5 @@ https://tv-1.iill.top/m3u/Gather
 https://aktv.space/live.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
 https://github.com/kimwang1978/collect-txt/blob/main/bbxx.m3u
-
+http://gg.7749.org/z/0/%E7%99%BD%E5%AB%96%E5%86%9B%E5%9B%A2.txt
+http://bxtv.3a.ink/live.m3u
