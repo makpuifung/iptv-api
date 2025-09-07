@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-07 06:12:25,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-09-07 18:51:06,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -57,8 +57,9 @@ CCTV-5+,http://111.9.163.186:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&
 CCTV-5+,https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1
 CCTV-5+,https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1
 CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
-CCTV-5+,http://123.129.70.178:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,https://migu.188766.xyz/?migutoken=e169fa6b833aa01388bbd96d5b8e4582&id=CCTV5p&pp=1
+CCTV-5+,http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8
 CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://106.52.196.79:80/TV/mui.php?id=cctv6
@@ -215,8 +216,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 ✨广东,#genre#
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
-广东珠江,http://58.62.235.86:10000/rtp/239.77.0.1:5146
 广东珠江,http://121.34.150.149:8225/rtp/239.77.0.1:5146
+广东珠江,http://58.62.235.86:10000/rtp/239.77.0.1:5146
 大湾区卫视,http://8.134.110.147:5300/?id=dwqws
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -233,7 +234,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东新闻,http://58.62.235.86:10000/rtp/239.77.0.173:5146
 广东新闻,http://121.34.150.149:8225/rtp/239.77.0.173:5146
-广东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东卫视,http://8.134.110.147:5300/?id=gdws
 广东卫视,http://153.0.171.163:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
@@ -243,6 +243,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东卫视,https://migu.188766.xyz/?migutoken=9d9425fd2b2a1a9f2370caa558731e89&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
 广东卫视,https://migu.188766.xyz/?migutoken=2f70575b3a7942c6aabfaa9bef1e23f5&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,https://migu.188766.xyz/?migutoken=eb4f0585eb7c1565427039bdb098c5e6&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -258,7 +259,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-广州竞赛,https://tencentplaygsm.gztv.com/live/jingsai.m3u8
 
 ✨港台,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
@@ -336,13 +336,15 @@ NOW新闻,http://api.mytv666.top/api/hk.php?id=303162393464663965313931353764356
 凤凰香港,https://migu.188766.xyz/?migutoken=e33180f492e27775c72440edb9e98179&id=fhhk&pp=1
 凤凰香港,https://migu.188766.xyz/?migutoken=055f7f8d04c4c0781d877c2efe572039&id=fhhk&pp=1
 凤凰香港,https://migu.188766.xyz/?migutoken=9819411b34384d5f0dc6c256665c0058&id=fhhk&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=9819411b34384d5f0dc6c256665c0058&id=fhhk&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=9b3dda87738ed91519916899c7683ccf&id=fhhk&pp=1
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
-TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
