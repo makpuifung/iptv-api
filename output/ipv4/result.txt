@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-08 18:13:40,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-09-09 06:12:03,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -214,7 +214,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 ✨广东,#genre#
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
-广东珠江,http://121.34.150.149:8225/rtp/239.77.0.1:5146
 广东珠江,http://58.62.235.86:10000/rtp/239.77.0.1:5146
 大湾区卫视,http://8.134.110.147:5300/?id=dwqws
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
@@ -229,7 +228,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
-广东新闻,http://121.34.150.149:8225/rtp/239.77.0.173:5146
 广东新闻,http://58.62.235.86:10000/rtp/239.77.0.173:5146
 广东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东卫视,http://8.134.110.147:5300/?id=gdws
@@ -245,12 +243,12 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东民生,http://121.34.150.149:8225/rtp/239.77.0.225:5146
 广东民生,http://58.62.235.86:10000/rtp/239.77.0.225:5146
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8
 广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 广州影视,http://tp88.cn/IPTV/guangdong/gztv.php?id=yingshi
 广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
