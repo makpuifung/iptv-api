@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-20 06:10:11,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-09-20 18:12:11,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -278,6 +278,7 @@ TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
 TVB PLUS,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVB PLUS,http://r.jdshipin.com/ndGgS
 TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
+TVB PLUS,http://iptv.4666888.xyz/iptv2.php?id=64
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
