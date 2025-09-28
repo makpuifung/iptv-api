@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-28 06:10:37,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-09-28 18:16:58,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -352,7 +352,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来育乐,http://api.mytv666.top/api/hk.php?id=3165616132653636313766396265326639656663626530326530386464616563267469643d77696e74763132332669643d3831
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://yang-1989.eu.org/live/ViuTV
-ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,https://yang-1989.eu.org/live/ViuTV
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
