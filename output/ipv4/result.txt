@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-01 18:12:28,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-10-02 06:11:51,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -116,7 +116,6 @@ CCTV-11,http://106.52.196.79:80/TV/mui.php?id=cctv11
 CCTV-11,https://migu.188766.xyz/?migutoken=7161126eb697caf582490927b3d3abde&id=CCTV11&pp=1
 CCTV-11,https://migu.188766.xyz/?migutoken=80c1bdfa4a00f97df39c6bebbce61690&id=CCTV11&type=yy
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-CCTV-11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://218.13.170.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,https://migu.188766.xyz/?migutoken=081e492d91f322784e7a210a96fafc93&id=CCTV12&pp=1
 CCTV-12,http://106.52.196.79:80/TV/mui.php?id=cctv12
