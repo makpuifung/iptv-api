@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-05 06:09:13,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-11-05 18:13:00,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -117,6 +117,7 @@ CCTV-11,https://migu.188766.xyz/?migutoken=7161126eb697caf582490927b3d3abde&id=C
 CCTV-11,https://migu.188766.xyz/?migutoken=80c1bdfa4a00f97df39c6bebbce61690&id=CCTV11&type=yy
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+CCTV-11,http://xtvantsc.xyz/Smart.php?id=cctv11
 CCTV-12,https://migu.188766.xyz/?migutoken=081e492d91f322784e7a210a96fafc93&id=CCTV12&pp=1
 CCTV-12,http://106.52.196.79:80/TV/mui.php?id=cctv12
 CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -225,6 +226,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 大湾区卫视,https://migu.188766.xyz/?migutoken=5a13647732fae29d4eb4c89864daf555&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,https://migu.188766.xyz/?migutoken=2d63190e8a98cb56e7125ae5ae935893&id=hk_gdty&type=dy
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东卫视,http://8.134.110.147:5300/?id=gdws
@@ -277,7 +279,7 @@ TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
 TVB PLUS,https://migu.188766.xyz/?migutoken=4de0eaad9d9a1d8be4fe64452714f80a&id=hk_tvbp&type=dy
 TVB PLUS,https://migu.188766.xyz/?migutoken=16d671d8ea4bb37c1ccc5450cfce72d2&id=hk_tvbp&type=dy
 TVB PLUS,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-TVB PLUS,https://migu.188766.xyz/?migutoken=16d671d8ea4bb37c1ccc5450cfce72d2&id=hk_tvbp&type=dy
+TVB PLUS,https://migu.188766.xyz/?migutoken=1ab593d08c1d0535e0de82e1b83c4365&id=hk_tvbp&type=dy
 TVB PLUS,http://r.jdshipin.com/ndGgS
 TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
