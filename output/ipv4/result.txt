@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-06 06:10:24,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-11-06 18:14:15,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -117,7 +117,6 @@ CCTV-11,https://migu.188766.xyz/?migutoken=7161126eb697caf582490927b3d3abde&id=C
 CCTV-11,https://migu.188766.xyz/?migutoken=80c1bdfa4a00f97df39c6bebbce61690&id=CCTV11&type=yy
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-CCTV-11,http://125.125.225.212:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,https://migu.188766.xyz/?migutoken=081e492d91f322784e7a210a96fafc93&id=CCTV12&pp=1
 CCTV-12,http://106.52.196.79:80/TV/mui.php?id=cctv12
 CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -199,7 +198,6 @@ CETV-2,https://migu.188766.xyz/?migutoken=fbb75c82d264c2d8358c1c439649b9d1&id=CE
 CETV-2,https://migu.188766.xyz/
 CETV-2,https://migu.188766.xyz/?migutoken=7c28dd362352a6d1e5bc4073d0f1a789&id=CETV2&type=yy
 CETV-3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
-CETV-3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
 CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
 CETV-4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
@@ -227,7 +225,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,https://migu.188766.xyz/?migutoken=2d63190e8a98cb56e7125ae5ae935893&id=hk_gdty&type=dy
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-广东体育,https://migu.188766.xyz/?migutoken=2d63190e8a98cb56e7125ae5ae935893&id=hk_gdty&type=dy
+广东体育,https://migu.188766.xyz/?migutoken=6ff1bcf466408fc928fe66e5877dab51&id=hk_gdty&type=dy
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东卫视,http://8.134.110.147:5300/?id=gdws
@@ -281,8 +279,7 @@ TVB PLUS,https://migu.188766.xyz/?migutoken=4de0eaad9d9a1d8be4fe64452714f80a&id=
 TVB PLUS,https://migu.188766.xyz/?migutoken=16d671d8ea4bb37c1ccc5450cfce72d2&id=hk_tvbp&type=dy
 TVB PLUS,https://migu.188766.xyz/?migutoken=1ab593d08c1d0535e0de82e1b83c4365&id=hk_tvbp&type=dy
 TVB PLUS,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-TVB PLUS,https://migu.188766.xyz/?migutoken=1ab593d08c1d0535e0de82e1b83c4365&id=hk_tvbp&type=dy
-TVB PLUS,http://r.jdshipin.com/ndGgS
+TVB PLUS,https://migu.188766.xyz/?migutoken=73c9fac6072aa4de281d884ee0c7101b&id=hk_tvbp&type=dy
 TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
@@ -361,7 +358,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
-ViuTV,https://yang-1989.eu.org/live/ViuTV
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 三立台湾,http://api.mytv666.top/api/hk.php?id=3431663838343031373566326636316465393566653637343436313266653666267469643d74762669643d3733
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
