@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-06 18:14:15,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-11-07 06:28:43,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -224,6 +224,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 大湾区卫视,https://migu.188766.xyz/?migutoken=5a13647732fae29d4eb4c89864daf555&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,https://migu.188766.xyz/?migutoken=2d63190e8a98cb56e7125ae5ae935893&id=hk_gdty&type=dy
+广东体育,https://migu.188766.xyz/?migutoken=6ff1bcf466408fc928fe66e5877dab51&id=hk_gdty&type=dy
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,https://migu.188766.xyz/?migutoken=6ff1bcf466408fc928fe66e5877dab51&id=hk_gdty&type=dy
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
@@ -278,6 +279,7 @@ TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
 TVB PLUS,https://migu.188766.xyz/?migutoken=4de0eaad9d9a1d8be4fe64452714f80a&id=hk_tvbp&type=dy
 TVB PLUS,https://migu.188766.xyz/?migutoken=16d671d8ea4bb37c1ccc5450cfce72d2&id=hk_tvbp&type=dy
 TVB PLUS,https://migu.188766.xyz/?migutoken=1ab593d08c1d0535e0de82e1b83c4365&id=hk_tvbp&type=dy
+TVB PLUS,https://migu.188766.xyz/?migutoken=73c9fac6072aa4de281d884ee0c7101b&id=hk_tvbp&type=dy
 TVB PLUS,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVB PLUS,https://migu.188766.xyz/?migutoken=73c9fac6072aa4de281d884ee0c7101b&id=hk_tvbp&type=dy
 TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
