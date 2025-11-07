@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/makpuifung/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-07 06:28:43
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-07 18:12:49
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="✨央视",CCTV-1
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -446,7 +446,7 @@ https://migu.188766.xyz/?migutoken=6ff1bcf466408fc928fe66e5877dab51&id=hk_gdty&t
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="✨广东",广东体育
 http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="✨广东",广东体育
-https://migu.188766.xyz/?migutoken=6ff1bcf466408fc928fe66e5877dab51&id=hk_gdty&type=dy
+https://migu.188766.xyz/?migutoken=b23bf85a5cebae8bf15725101a038edf&id=hk_gdty&type=dy
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png" group-title="✨广东",广东新闻
 https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="✨广东",广东卫视
@@ -552,7 +552,7 @@ https://migu.188766.xyz/?migutoken=73c9fac6072aa4de281d884ee0c7101b&id=hk_tvbp&t
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB PLUS.png" group-title="✨港台",TVB PLUS
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB PLUS.png" group-title="✨港台",TVB PLUS
-https://migu.188766.xyz/?migutoken=73c9fac6072aa4de281d884ee0c7101b&id=hk_tvbp&type=dy
+https://migu.188766.xyz/?migutoken=42e1d3785c133970db07491c25b8b789&id=hk_tvbp&type=dy
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB PLUS.png" group-title="✨港台",TVB PLUS
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="✨港台",明珠台
