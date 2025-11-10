@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-10 06:09:14,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-11-10 18:12:44,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -228,7 +228,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东体育,https://migu.188766.xyz/?migutoken=9b290ac5ddb38264241b64230cdf3455&id=hk_gdty&type=dy
 广东体育,https://migu.188766.xyz/?migutoken=b0ce7ebd3d5274c0f89016789a8d8836&id=hk_gdty&type=dy
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-广东体育,https://migu.188766.xyz/?migutoken=b0ce7ebd3d5274c0f89016789a8d8836&id=hk_gdty&type=dy
+广东体育,https://migu.188766.xyz/?migutoken=260817d49c64b5a38b3497ee63cbd586&id=hk_gdty&type=dy
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东卫视,http://8.134.110.147:5300/?id=gdws
