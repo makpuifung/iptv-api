@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-11 06:11:25,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-11-11 18:12:40,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -229,7 +229,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东体育,https://migu.188766.xyz/?migutoken=b0ce7ebd3d5274c0f89016789a8d8836&id=hk_gdty&type=dy
 广东体育,https://migu.188766.xyz/?migutoken=260817d49c64b5a38b3497ee63cbd586&id=hk_gdty&type=dy
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-广东体育,https://migu.188766.xyz/?migutoken=260817d49c64b5a38b3497ee63cbd586&id=hk_gdty&type=dy
+广东体育,https://migu.188766.xyz/?migutoken=ae1ce271a74a1041b89de7dec46975b5&id=hk_gdty&type=dy
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 广东卫视,http://8.134.110.147:5300/?id=gdws
@@ -317,7 +317,6 @@ NOW星影,http://stream-ali1.csslcloud.net:80/live/hktv-09ali21.flv
 凤凰中文,https://migu.188766.xyz/?migutoken=fd342aff6f1c46e4630234c69af1cef5&id=fhzw&pp=1
 凤凰中文,https://migu.188766.xyz/?migutoken=a45c97a6cf882a0ebe14430ac433e8c0&id=fhzw&pp=1
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
@@ -326,6 +325,7 @@ NOW星影,http://stream-ali1.csslcloud.net:80/live/hktv-09ali21.flv
 凤凰资讯,https://migu.188766.xyz/?migutoken=336fc68a6e20ac603e83e8adac90c1f4&id=fhzx&pp=1
 凤凰资讯,https://migu.188766.xyz/?migutoken=00ccac6c86bc03b307a6216f9285d08c&id=fhzx&pp=1
 凤凰资讯,https://migu.188766.xyz/?migutoken=9df8b654b29b9f09c47eb5abdf4a6d94&id=fhzx&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=a39f1dab3cf385184d0cbcf8a44a0346&id=fhzx&pp=1
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
