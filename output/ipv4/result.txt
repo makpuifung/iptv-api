@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-04 18:13:03,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-12-05 06:10:03,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -347,7 +347,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
