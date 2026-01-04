@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-04 06:10:17,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2026-01-04 18:10:42,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -224,7 +224,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 ✨广东,#genre#
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
-广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
@@ -232,6 +231,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东珠江,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&yang-1989
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
 大湾区卫视,http://8.134.110.147:5300/?id=dwqws
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -268,13 +268,11 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东卫视,https://migu.188766.xyz/?migutoken=eb4f0585eb7c1565427039bdb098c5e6&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东民生,https://mgev.188766.xyz/?migutoken=63f4e706b4b119dcc4b290c085c4f28d&id=gd_gdms&type=sz
 广东民生,https://hk.188766.xyz/?migutoken=a0f8dd7ac9f1ef0331b02edf797e4a18&id=gd_gdms&type=sz
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,http://r.jdshipin.com/iR6Gq
 广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
@@ -337,10 +335,10 @@ NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 美亚电影,https://yang-1989.eu.org/live/Mei-Ah-Movie-Channel
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,https://hls-gateway.vpstv.net/streams/476212.m3u8
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
 美亚电影,http://tl.061833.xyz/tl/null-5
+美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
