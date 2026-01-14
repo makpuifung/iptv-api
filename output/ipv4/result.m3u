@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/makpuifung/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-14 06:12:20
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-14 18:14:15
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="✨央视",CCTV-1
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -234,11 +234,9 @@ https://migu.188766.xyz/?migutoken=e3f42ae4b534a67673ff1d30ad96eb8c&id=CCTV11&ty
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="✨央视",CCTV-11
 https://migu.188766.xyz/?migutoken=690b4d87e7f8735af6f4be2d9e3e5850&id=CCTV11&type=yy
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="✨央视",CCTV-11
-https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="✨央视",CCTV-12
 https://migu.188766.xyz/?migutoken=081e492d91f322784e7a210a96fafc93&id=CCTV12&pp=1
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="✨央视",CCTV-12
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="✨央视",CCTV-12
 http://106.52.196.79:80/TV/mui.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="✨央视",CCTV-12
@@ -255,6 +253,8 @@ http://111.9.163.186:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 https://migu.188766.xyz/?migutoken=1a883911de72472e4761c21e998bfdcd&id=CCTV12&pp=1
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="✨央视",CCTV-12
 https://migu.188766.xyz/?migutoken=fbdb7d1613a8dabdb1ec192c4f31babb&id=CCTV12&pp=1
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="✨央视",CCTV-12
+https://migu.188766.xyz/?migutoken=4981577557e3d2a7469e5f7aa322049a&id=CCTV12&pp=1
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="✨央视",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="✨央视",CCTV-13
@@ -423,6 +423,8 @@ https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CETV4&typ
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="✨广东",广东珠江
 http://bxtv.3a.ink/api.php?id=gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="✨广东",广东珠江
+http://107.173.38.42:28278/zhujiang/playlist.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="✨广东",大湾区卫视
 http://8.134.110.147:5300/?id=dwqws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="✨广东",大湾区卫视
