@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-15 18:13:48,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2026-01-16 06:12:40,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -112,6 +112,7 @@ CCTV-10,http://221.13.235.145:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1
 CCTV-10,http://101.66.199.249:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://111.9.163.186:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV-11,http://221.13.235.145:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://111.9.163.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -121,7 +122,6 @@ CCTV-11,https://migu.188766.xyz/?migutoken=7161126eb697caf582490927b3d3abde&id=C
 CCTV-11,https://migu.188766.xyz/?migutoken=80c1bdfa4a00f97df39c6bebbce61690&id=CCTV11&type=yy
 CCTV-11,https://migu.188766.xyz/?migutoken=e3f42ae4b534a67673ff1d30ad96eb8c&id=CCTV11&type=yy
 CCTV-11,https://migu.188766.xyz/?migutoken=690b4d87e7f8735af6f4be2d9e3e5850&id=CCTV11&type=yy
-CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-12,https://migu.188766.xyz/?migutoken=081e492d91f322784e7a210a96fafc93&id=CCTV12&pp=1
 CCTV-12,http://106.52.196.79:80/TV/mui.php?id=cctv12
 CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -165,13 +165,13 @@ CCTV-15,https://migu.188766.xyz/?migutoken=06e6815c4f933aae55f00f89b84dc8dd&id=C
 CCTV-16,https://migu.188766.xyz/
 CCTV-16,https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
 CCTV-16,http://58.48.104.196:4022/rtp/239.69.1.247:11124
 CCTV-16,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://106.52.196.79:80/TV/mui.php?id=cctv17
 CCTV-17,http://123.116.125.121:8012/rtp/239.3.1.151:8144
