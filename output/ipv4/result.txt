@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-21 06:13:51,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2026-01-21 18:16:01,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -349,3 +349,4 @@ ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://yang-1989.eu.org/live/ViuTV
+ViuTV,http://43.251.226.89:8080/play/759.m3u8
