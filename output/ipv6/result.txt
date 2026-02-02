@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-02 06:12:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-02 18:33:44,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 ✨央视,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
 CCTV-1,http://106.52.196.79:80/TV/mui.php?id=cctv1
@@ -12,6 +11,7 @@ CCTV-1,http://110.181.232.202:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1
 CCTV-1,http://110.181.234.38:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://110.181.232.172:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://221.13.235.145:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://111.9.163.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 CCTV-2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -305,6 +305,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 无线新闻台,https://migu.188766.xyz/?migutoken=91b0f4ef69c3afab88be01ed9b2a3552&id=inews_twn&type=dy
 无线新闻台,https://migu.188766.xyz/?migutoken=9f196e0a8d6417a6370f89f4c71a3ab8&id=inews_twn&type=dy
 无线新闻台,https://migu.188766.xyz/?migutoken=1c968488ba1f6828a96e2bf262ac991d&id=inews_twn&type=dy
+TVB PLUS,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVB PLUS,http://r.jdshipin.com/ndGgS
 TVB PLUS,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
@@ -314,7 +315,6 @@ TVB PLUS,https://migu.188766.xyz/?migutoken=1ab593d08c1d0535e0de82e1b83c4365&id=
 TVB PLUS,https://migu.188766.xyz/?migutoken=73c9fac6072aa4de281d884ee0c7101b&id=hk_tvbp&type=dy
 TVB PLUS,https://migu.188766.xyz/?migutoken=42e1d3785c133970db07491c25b8b789&id=hk_tvbp&type=dy
 TVB PLUS,https://migu.188766.xyz/?migutoken=690f84e919fa350389fae99499c5b5e4&id=hk_tvbp&type=dy
-TVB PLUS,https://migu.188766.xyz/?migutoken=ea3fd9077a34827804d3dac562b30708&id=hk_tvbp&type=dy
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -329,6 +329,7 @@ NOW新闻,http://api.mytv666.top/api/hk.php?id=303162393464663965313931353764356
 NOW新闻,https://hls-gateway.vpstv.net/streams/477070.m3u8
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
+NOW新闻,https://cdn.163189.xyz/163189/now
 美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
@@ -382,8 +383,8 @@ ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://yang-1989.eu.org/live/ViuTV
+ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 ViuTV,https://live.catvod.com/iptv.php?id=d3w2007p
 ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 ViuTV,https://5.edge.101.qzz.io/smt3.2.1.php?id=viu1_twn
-ViuTV,http://hls.168.us.kg/u/99/master.m3u8
