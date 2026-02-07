@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-02-07 18:14:24,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2026-02-08 06:15:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 ✨央视,#genre#
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
 CCTV-1,http://106.52.196.79:80/TV/mui.php?id=cctv1
@@ -11,7 +12,6 @@ CCTV-1,http://110.181.232.202:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1
 CCTV-1,http://110.181.234.38:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://110.181.232.172:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://221.13.235.145:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://111.9.163.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 CCTV-2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
