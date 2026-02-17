@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 06:16:01,http://play.kankanlive.com/live/1698234869325962.m3u8
+2026-02-17 18:34:51,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 ✨央视,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -333,7 +333,7 @@ TVB PLUS,http://r.jdshipin.com/ndGgS
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://api.mytv666.top/api/hk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331
-NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
+NOW新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 NOW新闻,https://hls-gateway.vpstv.net/streams/477070.m3u8
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
 美亚电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg7I_bJVd6PHJW3O_8iuClaQv2fxz8fALRe2T-ogJ87ijCaxVOZ2bPDU19OAfHCuEH7pEtEyKaC5fQH83IQFKgtzrNJs9sRA_ZWtz7f_P7qo6AVu7NZkTmspa9rvOsdfPbS3JVHYZdD3YmQ4z04QanKIzTOcWRQ2fiCKdxZJI0HMUUxB1RvwrIu6Fs_jphyt87A.m3u8?u=1756878715
@@ -390,8 +390,8 @@ ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,https://yang-1989.eu.org/live/ViuTV
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTV,https://live.catvod.com/iptv.php?id=d3w2007p
 ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
