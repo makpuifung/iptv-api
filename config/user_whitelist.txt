@@ -199,6 +199,7 @@ CETV-4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=bzOgmq&tk=FgM0vQMejxvG
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+翡翠台,http://r.jdshipin.com/GeWKr?id=mzt720
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
@@ -222,7 +223,6 @@ TVB PLUS,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphv
 TVB PLUS,https://cdn6.101.qzz.io/163189/tvbp
 TVB PLUS,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4903
 TVB PLUS,http://bziyunshao.synology.me:8890/bysid/82
-明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGeE1gxpzjLoQWTWir772RiW9xP-7Vhz6iB1D9htxteCYrrT1zajd8n21mzIJri_TqeOEAMPrPGtUZA8iM9Ah11IK4uG0LIlw3KaFdk4fwauAyKHAjgL4Tyq7kG4ymrDqKy67Wfy53YIT4PWa-8mCkC3Ffa1jwixSqREtjad3qPhQLyoz7LTqA-Nn1wk3l8-kIQVmAF-lsHkY0Gti7mZdIQ.m3u8?u=1756878715
