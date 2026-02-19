@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 06:21:43,http://play.kankanlive.com/live/1698234869325962.m3u8
+2026-02-19 18:31:52,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 ✨央视,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -114,7 +114,6 @@ CCTV-10,http://125.42.150.159:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV-11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV-11,http://36.136.38.87:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=5
 CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8
@@ -122,16 +121,17 @@ CCTV-11,http://101.66.195.205:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0
 CCTV-11,http://120.211.62.180:8000/hls/11/index.m3u8
 CCTV-11,http://125.42.150.159:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://23.237.228.134/live3/CCTV11.m3u8
+CCTV-11,http://221.13.235.145:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://36.136.38.87:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
-CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=5
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-12,http://111.221.137.234:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-12,http://101.66.195.205:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-12,http://221.13.235.145:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
@@ -320,7 +320,6 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://api.mytv666.top/api/hk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331
 NOW爆谷,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=880
 NOW爆谷,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=880
-NOW爆谷,https://bxtv.3a.ink/api.php?id=baogu
 NOW星影,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=881
 NOW星影,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=881
 美亚电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg7I_bJVd6PHJW3O_8iuClaQv2fxz8fALRe2T-ogJ87ijCaxVOZ2bPDU19OAfHCuEH7pEtEyKaC5fQH83IQFKgtzrNJs9sRA_ZWtz7f_P7qo6AVu7NZkTmspa9rvOsdfPbS3JVHYZdD3YmQ4z04QanKIzTOcWRQ2fiCKdxZJI0HMUUxB1RvwrIu6Fs_jphyt87A.m3u8?u=1756878715
