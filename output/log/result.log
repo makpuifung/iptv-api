@@ -156,7 +156,6 @@ Name: CCTV-3, URL: http://mgsp-yx2.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv3h
 Name: CCTV-3, URL: http://39.152.103.17:8089/tsfile/live/1002_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: https://iptv.catvod.com/live.php?id=CCTV3&line=6, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://74.91.26.218:82/live/cctv3hd.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://23.237.228.134/live5/CCTV3.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -552,7 +551,7 @@ Name: CCTV-5, URL: http://111.9.163.186:9901/tsfile/live/0005_1.m3u8?key=txiptv&
 Name: CCTV-5, URL: http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://omnix.cn:4000/udp/225.1.8.89:8000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8, From: None, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://121.60.56.116:10001/rtp/239.69.1.123:10376, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://222.129.32.255:4022/rtp/239.3.1.173:8001, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -896,7 +895,7 @@ Name: CCTV-7, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733
 Name: CCTV-7, URL: https://mgtv.ottiptv.cc/mg/673168121.m3u8?userid=5559462299&sign=b9ca72f795800233cd1452c70d7e6d5ba24d63bac373902c5e876062caf0a675e82a6d4f7876a0b8cf1b4cd9175b4a2e79819e8d65444520115ae35b28f201d88e6cc0264f7d5a330cbfd7e5ecb0847e64&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: Oracle Corporation, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: https://iptv.catvod.com/live.php?id=CCTV7&line=7, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://23.237.228.134/live5/CCTV7.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 670 ms, Speed: 6.34 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 674 ms, Speed: 6.71 M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: https://iptv.catvod.com/live.php?id=CCTV8&line=11, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://27.41.245.32:801/hls/8/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -2348,7 +2347,7 @@ Name: CETV-4, URL: http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv4/51/2
 Name: CETV-4, URL: http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260225080215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260225080215&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9ba1450cc98464b69606f83a9feeeb84&sv=10004&ct=android, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-4, URL: http://kkk.888.3116598.xyz/api.php?n=tttt&id=bzOgmq&tk=FgM0vQMejxvG, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-4, URL: http://183.11.239.36:808/hls/79/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CETV-4, URL: http://171.83.103.119:9999/rtp/239.69.2.29:11328, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 408 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CETV-4, URL: http://171.83.103.119:9999/rtp/239.69.2.29:11328, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 566 ms, Speed: 0.08 M/s, Resolution: 1920x1080
 Name: 广东珠江, URL: http://bxtv.3a.ink/api.php?id=gdzj, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东珠江, URL: http://php.jdshipin.com/TVOD/iptv.php?id=gdzj, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东珠江, URL: http://cdn2.163189.xyz/live/gdzj/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -2362,7 +2361,7 @@ Name: 广东珠江, URL: https://cdn2.163189.xyz/live/gdzj/stream.m3u8, From: su
 Name: 广东珠江, URL: https://live.catvod.com/live.php?id=zhujiang&token=fc62589ddeab201bfbf4222e889eb2081343afe19bd533dcbc59b1bb81cc2736%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东珠江, URL: https://mgev.188766.xyz/?migutoken=a7bbd12ceedfd52abe635db55f488d13&id=gd_gdzj&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东珠江, URL: https://hk.188766.xyz/?migutoken=c15776027bfa87fcad42c6b729306b81&id=gd_gdzj&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东珠江, URL: http://rihou.cc:555/tv/[Cx]广东珠江, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 502 ms, Speed: 49.71 M/s, Resolution: None
+Name: 广东珠江, URL: http://rihou.cc:555/tv/[Cx]广东珠江, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 267 ms, Speed: 43.38 M/s, Resolution: None
 Name: 大湾区卫视, URL: http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 大湾区卫视, URL: https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 大湾区卫视, URL: http://113.15.109.216:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -2668,7 +2667,7 @@ Name: 广东体育, URL: https://mgev.188766.xyz/?migutoken=38f5dd71e8cfd78d819c
 Name: 广东体育, URL: https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东体育, URL: https://hk.188766.xyz/?migutoken=843e7d70eed4a9ab05e9e3069f2cf5db&id=gd_gdty&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东体育, URL: http://php.jdshipin.com/PLTV/iptv.php?id=gdty, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东体育, URL: http://rihou.cc:555/tv/[Cx]广东体育, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 3520 ms, Speed: 2.50 M/s, Resolution: None
+Name: 广东体育, URL: http://rihou.cc:555/tv/[Cx]广东体育, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 3229 ms, Speed: 2.63 M/s, Resolution: None
 Name: 广东新闻, URL: https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东新闻, URL: http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东新闻, URL: http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=kCe2IB&tk=bknhp6JvJlqE, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -2677,7 +2676,7 @@ Name: 广东新闻, URL: https://mgev.188766.xyz/?migutoken=89c3e453070d149eb57d
 Name: 广东新闻, URL: https://hk.188766.xyz/?migutoken=a2d7c057cfbaf0704896077e502563eb&id=gd_gdxw&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东新闻, URL: http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东新闻, URL: http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=kCe2IB&tk=bknhp6JvJlqE, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东新闻, URL: http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: 网宿科技CDN节点, Date: None, Delay: 58 ms, Speed: 1.56 M/s, Resolution: None
+Name: 广东新闻, URL: http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: 网宿科技CDN节点, Date: None, Delay: 39 ms, Speed: 2.57 M/s, Resolution: None
 Name: 广东卫视, URL: http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东卫视, URL: http://36.136.38.87:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东卫视, URL: http://23.237.228.134/live6/guangdong.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -3114,8 +3113,7 @@ Name: 翡翠台, URL: http://r.jdshipin.com/qClQf, From: whitelist, IPv_Type: No
 Name: 翡翠台, URL: http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://iptv.4666888.xyz/iptv2A.php?id=34, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://o11.163189.xyz/stream/tvb/fct/, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://hls.168.us.kg/u/81/master.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://rihou.cc:555/tv/[PL]无线翡高, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 87 ms, Speed: 65.59 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://rihou.cc:555/tv/[PL]无线翡高, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 280 ms, Speed: 22.68 M/s, Resolution: 1920x1080
 Name: 无线新闻台, URL: http://r.jdshipin.com/CkuBd, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻台, URL: http://hls.168.us.kg/u/83/master.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻台, URL: http://rihou.cc:555/tv/[Mt]无线新闻, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -3304,7 +3302,7 @@ Name: TVB PLUS, URL: http://r.jdshipin.com/Nr5jq, From: whitelist, IPv_Type: Non
 Name: TVB PLUS, URL: https://o11.163189.xyz/stream/tvb/tvbp/, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB PLUS, URL: https://cdn6.101.qzz.io/163189/tvbp, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB PLUS, URL: http://bziyunshao.synology.me:8890/bysid/82, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB PLUS, URL: http://rihou.cc:555/tv/[Pd]Plus综合, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 118 ms, Speed: 11.06 M/s, Resolution: None
+Name: TVB PLUS, URL: http://rihou.cc:555/tv/[Pd]Plus综合, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 178 ms, Speed: 5.75 M/s, Resolution: None
 Name: 明珠台, URL: http://hls.168.us.kg/u/84/master.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 明珠台, URL: https://mytv.cdn.loc.cc/o12.php?id=mzt, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 明珠台, URL: http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGeE1gxpzjLoQWTWir772RiW9xP-7Vhz6iB1D9htxteCYrrT1zajd8n21mzIJri_TqeOEAMPrPGtUZA8iM9Ah11IK4uG0LIlw3KaFdk4fwauAyKHAjgL4Tyq7kG4ymrDqKy67Wfy53YIT4PWa-8mCkC3Ffa1jwixSqREtjad3qPhQLyoz7LTqA-Nn1wk3l8-kIQVmAF-lsHkY0Gti7mZdIQ.m3u8?u=1756878715, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -3618,7 +3616,7 @@ Name: 凤凰中文, URL: http://r.jdshipin.com/cCCzW, From: whitelist, IPv_Type:
 Name: 凤凰中文, URL: http://cdn6.163189.xyz/163189/fhzw, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: http://pull-vivek.speedws.com/live/aaafhzw.flv, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰中文, URL: http://rihou.cc:555/tv/[PL]凤凰中文, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 139 ms, Speed: 59.97 M/s, Resolution: None
+Name: 凤凰中文, URL: http://rihou.cc:555/tv/[PL]凤凰中文, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 526 ms, Speed: 20.47 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://r.jdshipin.com/0Rp07, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://cdn6.163189.xyz/163189/fhzx, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -3781,7 +3779,7 @@ Name: 凤凰资讯, URL: http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u
 Name: 凤凰资讯, URL: http://cdn6.163189.xyz/163189/fhzx, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://pull-vivek.speedws.com/live/aaafhzx.flv, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰资讯, URL: http://rihou.cc:555/tv/[PL]凤凰资讯, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 82 ms, Speed: 78.99 M/s, Resolution: None
+Name: 凤凰资讯, URL: http://rihou.cc:555/tv/[PL]凤凰资讯, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 233 ms, Speed: 28.54 M/s, Resolution: None
 Name: 凤凰香港, URL: https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: http://r.jdshipin.com/yDoTN, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -3937,7 +3935,7 @@ Name: 凤凰香港, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk, Fr
 Name: 凤凰香港, URL: https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: http://pull-vivek.speedws.com/live/aaafhxg.flv, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰香港, URL: http://rihou.cc:555/tv/[PL]凤凰香港, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 78 ms, Speed: 64.10 M/s, Resolution: None
+Name: 凤凰香港, URL: http://rihou.cc:555/tv/[PL]凤凰香港, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 187 ms, Speed: 25.06 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
