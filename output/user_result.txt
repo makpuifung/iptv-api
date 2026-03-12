@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-12 18:28:45,http://play.kankanlive.com/live/1698234869325962.m3u8
+2026-03-13 06:15:02,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 ✨央视,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
