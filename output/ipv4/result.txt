@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-15 06:14:43,http://play.kankanlive.com/live/1698234869325962.m3u8
+2026-03-15 18:18:28,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 ✨央视,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -202,6 +202,7 @@ CETV-2,https://migu.188766.xyz/?migutoken=040fd5590caf3eeb1f3227d701817fff&id=CE
 CETV-2,https://migu.188766.xyz/?migutoken=70c0673a4489d1f6f14e2fa4656f3bb1&id=CETV2&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=6e7afae41c97221a570805c2048f02a6&id=CETV2&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=6fef3b045d5411358fcec4b9eeaab555&id=CETV2&type=yy
+CETV-3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 CETV-3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 CETV-4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
