@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-16 06:15:45,http://play.kankanlive.com/live/1698234869325962.m3u8
+2026-03-16 18:43:52,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 ✨央视,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -218,7 +218,6 @@ CETV-4,https://migu.188766.xyz/
 ✨广东,#genre#
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2
 大湾区卫视,http://113.15.109.216:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -314,6 +313,7 @@ ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,https://cdn.163189.xyz/163189/viu
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://api.mytv666.top/api/hk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331
