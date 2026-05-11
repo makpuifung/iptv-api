@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 20:34:03,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-05-12 06:44:27,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -402,4 +402,3 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
