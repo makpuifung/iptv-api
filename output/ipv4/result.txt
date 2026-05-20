@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-20 20:16:33,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-05-21 07:02:57,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -324,7 +324,7 @@ ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 ViuTV,https://cdn.163189.xyz/163189/viu
-ViuTV,http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c832add0cc51fc18517&ip=106.226.94.180&id=3c1b9f176fbf6b2a216e60f2c55407bca8f6095d133d220effd849eef2e6aaef
+ViuTV,http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c832add0cc51fc18517&ip=106.226.94.180&id=64a227124789da3aa072df5089eab424
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://api.mytv666.top/api/hk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331
