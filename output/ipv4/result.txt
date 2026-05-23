@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-23 06:47:12,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-05-23 19:04:13,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -203,6 +203,8 @@ CETV-2,https://migu.188766.xyz/?migutoken=6fef3b045d5411358fcec4b9eeaab555&id=CE
 CETV-2,https://migu.188766.xyz/?migutoken=fbb75c82d264c2d8358c1c439649b9d1&id=CETV2&type=yy
 CETV-2,https://migu.188766.xyz/
 CETV-3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
 CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b

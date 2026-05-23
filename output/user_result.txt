@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-23 06:47:12,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-05-23 19:04:13,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -203,6 +203,8 @@ CETV-2,https://migu.188766.xyz/?migutoken=6fef3b045d5411358fcec4b9eeaab555&id=CE
 CETV-2,https://migu.188766.xyz/?migutoken=fbb75c82d264c2d8358c1c439649b9d1&id=CETV2&type=yy
 CETV-2,https://migu.188766.xyz/
 CETV-3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
