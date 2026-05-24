@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-24 06:40:50,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-05-24 19:07:50,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -280,6 +280,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=0703bd25a3f6762e5785411ece91c814&id=CE
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州综合,http://r.jdshipin.com/snhya
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 广州影视,http://r.jdshipin.com/sFw4S
 广州影视,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzys
@@ -346,6 +347,7 @@ ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://api.mytv666.top/api/hk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331
+NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,https://hls-gateway.vpstv.net/streams/477070.m3u8
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
 NOW爆谷,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=880
