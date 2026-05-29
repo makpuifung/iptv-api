@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/makpuifung/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-29 07:06:16
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-29 20:42:35
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="✨央视",CCTV-1
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -541,8 +541,6 @@ http://tp88.cn/IPTV/guangdong/gztv.php?id=yingshi
 http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州影视.png" group-title="✨广东",广州影视
 http://r.jdshipin.com/sFw4S
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州影视.png" group-title="✨广东",广州影视
-http://183.239.236.91:8088/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州竞赛.png" group-title="✨广东",广州竞赛
 http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州竞赛.png" group-title="✨广东",广州竞赛
