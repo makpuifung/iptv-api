@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/makpuifung/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-07 19:41:45
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-08 06:52:59
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="✨央视",CCTV-1
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -688,11 +688,11 @@ https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="✨港台",ViuTV
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="✨港台",ViuTV
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="✨港台",ViuTV
 https://live.catvod.com/iptv.php?id=d3w2007p
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="✨港台",ViuTV
 https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="✨港台",ViuTV
-https://5.edge.101.qzz.io/smt3.2.1.php?id=viu1_twn
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW新闻.png" group-title="✨港台",NOW新闻
 http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW新闻.png" group-title="✨港台",NOW新闻
@@ -764,13 +764,13 @@ http://pull-vivek.speedws.com/live/aaafhzx.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="✨港台",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="✨港台",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="✨港台",凤凰资讯
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="✨港台",凤凰资讯
 http://iptv.4666888.xyz/iptv.php?id=20061
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="✨港台",凤凰资讯
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="✨港台",凤凰资讯
-https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="✨港台",凤凰香港
 https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="✨港台",凤凰香港
