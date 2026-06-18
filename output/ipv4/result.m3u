@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/makpuifung/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-18 20:45:11
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-19 07:27:23
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="✨央视",CCTV-1
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -543,8 +543,6 @@ http://r.jdshipin.com/snhya
 http://r.jdshipin.com/snhya
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="✨广东",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="✨广东",广州综合
-https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州影视.png" group-title="✨广东",广州影视
 http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州影视.png" group-title="✨广东",广州影视
