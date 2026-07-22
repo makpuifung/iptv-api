@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-22 06:43:24,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-07-22 19:42:43,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -88,10 +88,10 @@ CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-8,http://221.13.235.145:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://101.66.199.249:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8,http://111.9.163.186:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8,http://222.129.32.255:4022/rtp/239.3.1.175:8001
 CCTV-8,http://106.52.196.79:80/TV/mui.php?id=cctv8
 CCTV-8,http://8.134.110.147:5300/?id=cctv8
-CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
 CCTV-9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
 CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-9,http://27.41.245.32:801/hls/9/index.m3u8
