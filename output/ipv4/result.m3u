@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/makpuifung/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-23 19:45:09
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-24 06:44:42
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="✨央视",CCTV-1
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -659,8 +659,6 @@ http://api.mytv666.top/api/hk.php?id=3031623934646639653139313537643561326432643
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="NOW爆谷" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW爆谷.png" group-title="✨港台",NOW爆谷
 http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=880
-#EXTINF:-1 tvg-name="NOW爆谷" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW爆谷.png" group-title="✨港台",NOW爆谷
-http://173.208.234.146/live/nowbg.m3u8
 #EXTINF:-1 tvg-name="NOW星影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW星影.png" group-title="✨港台",NOW星影
 http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=881
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影.png" group-title="✨港台",美亚电影

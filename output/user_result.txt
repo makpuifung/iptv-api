@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-23 19:45:09,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-07-24 06:44:42,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
@@ -232,7 +232,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=0703bd25a3f6762e5785411ece91c814&id=CE
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
-广东珠江,https://iptv.catvod.com/migu?id=639731952&token=198f4a3fffb2793ebd931ee5648c2241
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -347,9 +347,9 @@ ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 ViuTV,https://cdn.163189.xyz/163189/viu
+ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ViuTV,https://live.catvod.com/iptv.php?id=d3w2007p
 ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-ViuTV,https://5.edge.101.qzz.io/smt3.2.1.php?id=viu1_twn
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://api.mytv666.top/api/hk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331
@@ -357,7 +357,6 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,https://hls-gateway.vpstv.net/streams/477070.m3u8
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
 NOW爆谷,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=880
-NOW爆谷,http://173.208.234.146/live/nowbg.m3u8
 NOW星影,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=881
 NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 美亚电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg7I_bJVd6PHJW3O_8iuClaQv2fxz8fALRe2T-ogJ87ijCaxVOZ2bPDU19OAfHCuEH7pEtEyKaC5fQH83IQFKgtzrNJs9sRA_ZWtz7f_P7qo6AVu7NZkTmspa9rvOsdfPbS3JVHYZdD3YmQ4z04QanKIzTOcWRQ2fiCKdxZJI0HMUUxB1RvwrIu6Fs_jphyt87A.m3u8?u=1756878715
