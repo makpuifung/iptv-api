@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-05 19:50:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-06 06:47:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 ✨央视,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -224,6 +224,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=33f28e5d8782962765cc76d288faf3cd&id=CE
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=2
 大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
