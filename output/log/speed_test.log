@@ -1,7 +1,3 @@
-Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 58 ms, Speed: 117.32 M/s, Resolution: 1920x1080
-Name: CCTV-17, URL: http://drive.mxmy.net:8888/udp/239.3.1.188:8001, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://drive.mxmy.net:8888/udp/239.3.1.172:8001, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: http://drive.mxmy.net:8888/udp/239.3.1.65:8132, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: http://drive.mxmy.net:8888/udp/239.3.1.63:8116, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, From: subscribe, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3032 ms, Speed: 0.57 M/s, Resolution: None
-Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 2753 ms, Speed: 0.40 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 62 ms, Speed: 119.19 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, From: subscribe, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3051 ms, Speed: 0.50 M/s, Resolution: None
+Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 2093 ms, Speed: 0.46 M/s, Resolution: 1920x1080
