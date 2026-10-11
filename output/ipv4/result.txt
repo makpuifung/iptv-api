@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-10 23:37:21,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+2026-10-11 08:34:35,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 
 ✨央视,#genre#
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
