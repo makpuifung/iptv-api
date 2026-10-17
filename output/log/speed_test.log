@@ -1,3 +1,5 @@
-Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 86 ms, Speed: 78.35 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 2944 ms, Speed: 0.46 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, From: subscribe, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2632 ms, Speed: 0.60 M/s, Resolution: None
+Name: CCTV-16, URL: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 101 ms, Speed: 66.64 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 2042 ms, Speed: 0.51 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, From: subscribe, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2749 ms, Speed: 0.59 M/s, Resolution: None
+Name: CCTV-6, URL: http://125.93.74.27:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-东莞, ISP: 电信, Date: None, Delay: 10315 ms, Speed: 0.14 M/s, Resolution: 720x576
+Name: CCTV-14, URL: http://125.93.74.27:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-东莞, ISP: 电信, Date: None, Delay: 10313 ms, Speed: 0.18 M/s, Resolution: 1920x1080
